@@ -3,7 +3,7 @@
 升级make、gcc、glibc，安装node.js(版本≥8)、npm@9.8.1、git
 
 
-
+111
 ```sh
 # 配置国内镜像
 npm confifig set registry https://registry.npm.taobao.org
